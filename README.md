@@ -6,8 +6,11 @@ Tensorflow implementation of a Generative Adversarial Network using the MNIST fa
 2. Download the MNIST data:
 
 http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz
+
 http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-labels-idx1-ubyte.gz
+
 http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz
+
 http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz
 
 3. Create a new folder folder "MNIST_Fashion" in your project
